@@ -3,8 +3,7 @@
 
 </div>
 
-<h3 align="left">📈 Reach Me Out :</h3>
-###
+<h3 align="left">🔍 Reach Me Out :</h3>
 
 <div align="center">
   <a href="https://www.facebook.com/syd.ryd">
