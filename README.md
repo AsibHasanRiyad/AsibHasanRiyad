@@ -39,19 +39,6 @@
 </div>
 
 ###
-
-###
-
-<div align="center"> 
-<h3> Total Profile Visits </h3> </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AsibHasanRiyad/count.svg?"  />
-</div>
-
-###
 ###
 
 <h3 align="left">🛠 Technology That I Know</h3>
