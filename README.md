@@ -93,12 +93,9 @@
 ###
 
 <p align="left"> 
-👋 Hi, I'm [Your Name]!<br>
-
+👋 Hi, I'm Asib Hasan Riyad!<br>
 🚀 Web Developer from Bangladesh<br>
 💻 React.js enthusiast exploring Next.js<br>
-🌱 Learning advanced Next.js features<br>
-
 🎯 **Goals:**<br>
    - Excel as a web developer<br>
    - Make a positive impact on the industry<br>
