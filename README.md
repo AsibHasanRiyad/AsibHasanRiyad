@@ -1,4 +1,3 @@
-
 <div align="center">
       <img src="https://github.com/AsibHasanRiyad/AsibHasanRiyad/assets/137589900/82691541-1b51-408e-a048-de4ce84d0804  " alt="Asib Hasaan Riyad"  />
 
@@ -33,7 +32,6 @@
   <img src="https://streak-stats.demolab.com?user=AsibHasanRiyad&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph"  />
 </div>
 
-
 ###
 
 <div align="center">
@@ -44,7 +42,8 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<div align="center"> 
+<h3> Total Profile Visits </h3> </div>
 
 ###
 
@@ -53,13 +52,6 @@
 </div>
 
 ###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Asib Hasan Riyad  from Bangladesh<br><br>- 🔭 I’m an Electrical Engineer<br>- 📚 I'm currently learning Web Development</p>
-
 ###
 
 <h3 align="left">🛠 Technology That I Know</h3>
@@ -96,24 +88,23 @@
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="70" alt="firebase logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsibHasanRiyad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=AsibHasanRiyad&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph"  />
-</div>
+<p align="left"> 
+👋 Hi, I'm [Your Name]!<br>
 
+🚀 Web Developer from Bangladesh<br>
+💻 React.js enthusiast exploring Next.js<br>
+🌱 Learning advanced Next.js features<br>
 
-###
+🎯 **Goals:**<br>
+   - Excel as a web developer<br>
+   - Make a positive impact on the industry<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AsibHasanRiyad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="160" alt="languages graph"  />
-</div>
-
-###
+Let's code something amazing together! 🚀
+ 
+ </p>
 
 
